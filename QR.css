@@ -34,12 +34,13 @@ img{
 .instruction{
     margin-top: 0px;
     padding: 0px .8rem;
+    color: var(--slate-500);
 }
 
 @media screen and (min-width: 375px) {
     .shell_main{
         width: 287px;
-        margin-top: 140px;
+        margin-top: 200px;
     }
     
 }
